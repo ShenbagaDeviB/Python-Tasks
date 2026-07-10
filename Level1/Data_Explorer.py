@@ -1,0 +1,10 @@
+Integer=int(input("Enter the integer value:"))
+Float=float(input("Enter the float value:"))
+String=input("Enter the String:")
+Boolean=bool(input("Enter the boolean value:"))
+n=None
+print(type(Integer))
+print(type(Float))
+print(type(String))
+print(type(Boolean))
+print(type(n))

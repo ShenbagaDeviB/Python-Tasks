@@ -1,0 +1,7 @@
+s1=input("Enter the word:")
+s=s1.split()
+len1=len(s)
+s=set(s)
+print(s)
+len2=len(s)
+print(len1-len2)
